@@ -1,4 +1,13 @@
-[
+{
+  "disorder": "Histrionic Personality Disorder (HPD)",
+  "description": "Collapse-phase mapping of HPD patterns across domains and narrative scales. HPD traits often manifest as instability in interpersonal relationships, self-image, affect, and marked impulsivity. The following structure outlines recurring collapse patterns in symbolic form across multiple nested systems.",
+  "phases": [
+    "Phase 0: Attention Seeking",
+    "Phase 1: Emotional Amplification",
+    "Phase 2: Relational Turbulence",
+    "Phase 3: Withdrawal / Collapse"
+  ],
+  "mapping": [
   {
     "domain": "personal",
     "scale": "intrapersonal",
@@ -136,3 +145,4 @@
     ]
   }
 ]
+}

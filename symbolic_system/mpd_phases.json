@@ -1,4 +1,13 @@
-[
+{
+  "disorder": "Machiavellian Personality Disorder (MPD)",
+  "description": "Collapse-phase mapping of MPD patterns across domains and narrative scales. MPD traits often manifest as instability in interpersonal relationships, self-image, affect, and marked impulsivity. The following structure outlines recurring collapse patterns in symbolic form across multiple nested systems.",
+  "phases": [
+    "Phase 0: Strategic Ingratiation",
+    "Phase 1: Manipulative Structuring",
+    "Phase 2: Exploitation & Control",
+    "Phase 3: Collapse or Consolidation"
+  ],
+  "mapping": [
     {
       "domain": "personal",
       "scale": "individual",
@@ -112,4 +121,4 @@
       ]
     }
   ]
-  
+}

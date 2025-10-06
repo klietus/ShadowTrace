@@ -1,4 +1,13 @@
-[
+{
+  "disorder": "Narcissistic Personality Disorder (NPD)",
+  "description": "Collapse-phase mapping of NPD patterns across domains and narrative scales. NPD traits often manifest as instability in interpersonal relationships, self-image, affect, and marked impulsivity. The following structure outlines recurring collapse patterns in symbolic form across multiple nested systems.",
+  "phases": [
+      "Phase 0: Idealization / Grandiosity",
+      "Phase 1: Control / Devaluation",
+      "Phase 2: Exposure / Collapse",
+      "Phase 3: Reassembly / Reinvention"
+    ],
+  "mapping": [
   {
     "domain": "personal",
     "scale": "individual",
@@ -254,5 +263,6 @@
       "People are waking up.",
       "The system is adapting to survive."
     ]
-  }
-]
+    }
+  ]
+}

@@ -1,4 +1,13 @@
-[
+{
+    "disorder": "Antisocial Personality Disorder (ASPD)",
+    "description": "Collapse-phase mapping of ASPD patterns across domains and narrative scales. ASPD traits often manifest as instability in interpersonal relationships, self-image, affect, and marked impulsivity. The following structure outlines recurring collapse patterns in symbolic form across multiple nested systems.",
+    "phases": [
+      "Phase 0: Grooming / Superficial Charm",
+      "Phase 1: Boundary Violation",
+      "Phase 2: Exploitation / Harm",
+      "Phase 3: Burnout / Replacement"
+    ],
+    "mapping": [
     {
         "domain": "Personal",
         "scale": "Individual",
@@ -271,4 +280,5 @@
             "We are beyond truth now."
         ]
     }
-]
+  ]
+}
