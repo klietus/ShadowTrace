@@ -1,0 +1,115 @@
+[
+    {
+      "domain": "personal",
+      "scale": "individual",
+      "phases": [
+        "Strategic charm and concealment",
+        "Manipulative leverage",
+        "Instrumental betrayal",
+        "Cold detachment or strategic discard"
+      ],
+      "narrative_cues": [
+        "I know just what to say.",
+        "Let me handle the details.",
+        "It’s not personal, it’s necessary.",
+        "We’re done here."
+      ]
+    },
+    {
+      "domain": "marriage",
+      "scale": "relationship",
+      "phases": [
+        "Calculated compatibility",
+        "Power balancing via secrets",
+        "Legal/economic maneuvering",
+        "Divorce with asset optimization"
+      ],
+      "narrative_cues": [
+        "We make a great team.",
+        "You don’t need to know everything.",
+        "This is what’s fair, legally.",
+        "I got everything I needed."
+      ]
+    },
+    {
+      "domain": "company",
+      "scale": "team/institution",
+      "phases": [
+        "Network cultivation",
+        "Strategic undercutting",
+        "Boardroom coup or silent takeover",
+        "Restructuring under new leadership"
+      ],
+      "narrative_cues": [
+        "Let me make some introductions.",
+        "We’ll just shift responsibilities quietly.",
+        "They weren’t aligned with our vision.",
+        "We’re moving in a new direction."
+      ]
+    },
+    {
+      "domain": "government",
+      "scale": "civilizational",
+      "phases": [
+        "Diplomatic diplomacy façade",
+        "Covert intelligence manipulation",
+        "Regime destabilization or proxy war",
+        "Install loyalist or exit cleanly"
+      ],
+      "narrative_cues": [
+        "We support democratic values.",
+        "Just intelligence operations, nothing more.",
+        "They lost legitimacy, we had to act.",
+        "We’ve ensured long-term stability."
+      ]
+    },
+    {
+      "domain": "religion",
+      "scale": "ideological system",
+      "phases": [
+        "Cloaked conversion or alliance",
+        "Power consolidation via ritual control",
+        "Doctrinal manipulation",
+        "Absorption or instrumental exit"
+      ],
+      "narrative_cues": [
+        "We welcome all faiths.",
+        "We’ve aligned the teachings with governance.",
+        "This is the true interpretation.",
+        "Our mission is complete."
+      ]
+    },
+    {
+      "domain": "community",
+      "scale": "localized group",
+      "phases": [
+        "Facade of altruism",
+        "Covert influence through favors",
+        "Undermining rivals silently",
+        "Emergence as dominant or detachment"
+      ],
+      "narrative_cues": [
+        "Just doing my part.",
+        "I helped them, now they owe me.",
+        "Let’s keep this just between us.",
+        "They trust me now. I’m done."
+      ]
+    },
+    {
+      "domain": "academia",
+      "scale": "intellectual institution",
+      "phases": [
+        "Strategic publication",
+        "Gatekeeping via review committees",
+        "Political co-opting of research",
+        "Exit to policy influence or think tank"
+      ],
+      "narrative_cues": [
+        "Let’s coauthor.",
+        "That’s not acceptable methodology.",
+        "Our findings support the agenda.",
+        "I’ve taken a role at the institute."
+      ]
+    }
+  ]
+  

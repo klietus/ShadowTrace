@@ -1,0 +1,258 @@
+[
+  {
+    "domain": "personal",
+    "scale": "individual",
+    "phases": [
+      "Idealization",
+      "Control/Devaluation",
+      "Collapse",
+      "Discard/Rebirth"
+    ],
+    "narrative_cues": [
+      "You're everything I've ever wanted.",
+      "Why can't you ever do anything right?",
+      "Everything is your fault.",
+      "I never needed you anyway."
+    ]
+  },
+  {
+    "domain": "marriage",
+    "scale": "relationship",
+    "phases": [
+      "Love bombing",
+      "Gaslighting and erosion",
+      "Public breakdown",
+      "Divorce or trauma loop"
+    ],
+    "narrative_cues": [
+      "We're soulmates.",
+      "You're crazy, that never happened.",
+      "They're unstable, I tried everything.",
+      "It was all them, I'm moving on."
+    ]
+  },
+  {
+    "domain": "family",
+    "scale": "group",
+    "phases": [
+      "Golden child/scapegoat creation",
+      "Emotional triangulation",
+      "Estrangement",
+      "Legacy denial or healing"
+    ],
+    "narrative_cues": [
+      "You're the good one, they're the problem.",
+      "Don\u2019t tell your father/mother.",
+      "They left the family by choice.",
+      "We don\u2019t speak of them anymore."
+    ]
+  },
+  {
+    "domain": "company",
+    "scale": "team/institution",
+    "phases": [
+      "Charismatic founder myth",
+      "Toxic management and coercion",
+      "Scandal or mass exit",
+      "Restructure or dissolution"
+    ],
+    "narrative_cues": [
+      "This company is changing the world.",
+      "You\u2019re not loyal enough.",
+      "Leadership has resigned amid allegations.",
+      "We\u2019re pivoting to something new."
+    ]
+  },
+  {
+    "domain": "religion",
+    "scale": "ideological system",
+    "phases": [
+      "Revelation and purity",
+      "Dogma and control",
+      "Heresy purge or schism",
+      "Myth collapse or cult evolution"
+    ],
+    "narrative_cues": [
+      "We are chosen.",
+      "Only through obedience is salvation.",
+      "They were false prophets.",
+      "We have returned to the truth."
+    ]
+  },
+  {
+    "domain": "government",
+    "scale": "civilizational",
+    "phases": [
+      "Unity and reform",
+      "Power concentration and corruption",
+      "Collapse or war",
+      "Reconstruction or authoritarian freeze"
+    ],
+    "narrative_cues": [
+      "We the people.",
+      "Trust the process.",
+      "They are enemies of the state.",
+      "This is the new order."
+    ]
+  },
+  {
+    "domain": "academia",
+    "scale": "intellectual institution",
+    "phases": [
+      "Innovation and inquiry",
+      "Siloing and gatekeeping",
+      "Ideological enforcement",
+      "Loss of credibility or collapse"
+    ],
+    "narrative_cues": [
+      "This changes how we understand the world.",
+      "You haven\u2019t earned a seat at the table.",
+      "That\u2019s not publishable material.",
+      "Nobody takes that field seriously anymore."
+    ]
+  },
+  {
+    "domain": "media",
+    "scale": "cultural megaphone",
+    "phases": [
+      "Public trust and storytelling",
+      "Narrative control and bias",
+      "Misinformation or outrage spiral",
+      "Fragmentation and distrust"
+    ],
+    "narrative_cues": [
+      "We bring you the truth.",
+      "This is the only perspective that matters.",
+      "Breaking: mass outrage unfolds.",
+      "Everyone has their own facts now."
+    ]
+  },
+  {
+    "domain": "community",
+    "scale": "localized group",
+    "phases": [
+      "Mutual aid and identity",
+      "Cliques and purity tests",
+      "Excommunication and implosion",
+      "Reformation or dissolution"
+    ],
+    "narrative_cues": [
+      "We take care of each other here.",
+      "They\u2019re not really one of us.",
+      "They betrayed our values.",
+      "Let\u2019s start something better."
+    ]
+  },
+  {
+    "domain": "healthcare",
+    "scale": "biopolitical system",
+    "phases": [
+      "Care and innovation",
+      "Profit-centric distortion",
+      "Ethical crisis or burnout",
+      "Collapse, reform, or biotechnocracy"
+    ],
+    "narrative_cues": [
+      "We\u2019re here to help.",
+      "What\u2019s your insurance again?",
+      "We did all we could with the policy.",
+      "We\u2019ve implemented a new AI triage model."
+    ]
+  },
+  {
+    "domain": "tech stack",
+    "scale": "infrastructure system",
+    "phases": [
+      "Open protocols and innovation",
+      "Monopoly and enshittification",
+      "Security and exploit collapse",
+      "Decentralized reformation or failure"
+    ],
+    "narrative_cues": [
+      "This changes everything.",
+      "You\u2019re locked in now.",
+      "Critical vulnerability discovered.",
+      "Forked and rebuilt by the community."
+    ]
+  },
+  {
+    "domain": "military",
+    "scale": "national/imperial mechanism",
+    "phases": [
+      "Security and protection",
+      "Overreach and loyalty tests",
+      "Internal coup or mission failure",
+      "Collapse, retreat, or foreign takeover"
+    ],
+    "narrative_cues": [
+      "We defend freedom.",
+      "Obey orders without question.",
+      "This was an unauthorized action.",
+      "We\u2019re transitioning to peacekeeping."
+    ]
+  },
+  {
+    "domain": "cult",
+    "scale": "closed belief system",
+    "phases": [
+      "Charismatic recruitment",
+      "Isolation and abuse",
+      "Ritual crisis or scandal",
+      "Escape, collapse, or mutation"
+    ],
+    "narrative_cues": [
+      "Only we know the truth.",
+      "They\u2019re outsiders and dangerous.",
+      "He was not supposed to die.",
+      "We\u2019re rebranding the teachings."
+    ]
+  },
+  {
+    "domain": "legal system",
+    "scale": "judicial framework",
+    "phases": [
+      "Justice and fairness",
+      "Corruption and loopholes",
+      "Weaponization or collapse",
+      "Restoration or authoritarian law"
+    ],
+    "narrative_cues": [
+      "We uphold the law.",
+      "There\u2019s nothing we can do legally.",
+      "That judge is compromised.",
+      "We\u2019ve revised the constitution."
+    ]
+  },
+  {
+    "domain": "art",
+    "scale": "cultural expression",
+    "phases": [
+      "Rebellion and innovation",
+      "Institutional capture",
+      "Censorship and dilution",
+      "Subversion or renaissance"
+    ],
+    "narrative_cues": [
+      "This speaks truth to power.",
+      "You have to pass committee review.",
+      "This is no longer acceptable.",
+      "We\u2019re doing it on the blockchain now."
+    ]
+  },
+  {
+    "domain": "meta-system",
+    "scale": "civilizational cognition",
+    "phases": [
+      "Pattern recognition and awareness",
+      "Suppression and ridicule",
+      "Revelation and backlash",
+      "Integration or system shock"
+    ],
+    "narrative_cues": [
+      "This maps the whole structure.",
+      "That\u2019s a conspiracy theory.",
+      "People are waking up.",
+      "The system is adapting to survive."
+    ]
+  }
+]

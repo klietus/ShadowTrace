@@ -1,0 +1,108 @@
+{
+  "disorder": "Borderline Personality Disorder (BPD)",
+  "description": "Collapse-phase mapping of BPD patterns across domains and narrative scales. BPD traits often manifest as instability in interpersonal relationships, self-image, affect, and marked impulsivity. The following structure outlines recurring collapse patterns in symbolic form across multiple nested systems.",
+  "phases": [
+    "Phase 0: Idealization",
+    "Phase 1: Fracture",
+    "Phase 2: Emotional Volatility",
+    "Phase 3: Abandonment / Despair"
+  ],
+  "mapping": [
+    {
+      "domain": "Personal",
+      "scale": "Individual",
+      "phases": [
+        "Hyper-identification with projected ideals or self-narratives.",
+        "Trigger event causes sudden break in self-concept.",
+        "Intense emotional swings, self-harm, impulsive decisions.",
+        "Fear of abandonment leads to collapse of identity or extreme withdrawal."
+      ],
+      "narrative_cues": [
+        "I'm finally exactly who I was meant to be.",
+        "Why does everything feel like it's falling apart?",
+        "I can't take this anymore. I hate everyone.",
+        "Everyone leaves. I'm nothing without them."
+      ]
+    },
+    {
+      "domain": "Marriage",
+      "scale": "Dyad",
+      "phases": [
+        "Partner placed on pedestal, seen as soulmate or rescuer.",
+        "Perceived slight or abandonment triggers emotional crisis.",
+        "Volatile fights, threats of separation, clinging followed by rejection.",
+        "Relationship ends in dramatic fallout, accusations, emotional scorched earth."
+      ],
+      "narrative_cues": [
+        "You're the only one who understands me.",
+        "Why didn\u2019t you text me back right away?",
+        "Get out. No wait\u2014please don\u2019t leave.",
+        "I hate you. I hate myself more."
+      ]
+    },
+    {
+      "domain": "Family",
+      "scale": "Group",
+      "phases": [
+        "Unrealistic role projections onto family members (rescuer, villain).",
+        "Perceived betrayal or invalidation of emotions.",
+        "Emotional volatility, cycles of blame and reconciliation.",
+        "Estrangement, threats of self-harm, family fracture."
+      ],
+      "narrative_cues": [
+        "My sibling is perfect, the only one I trust.",
+        "Why doesn\u2019t anyone take me seriously?",
+        "I\u2019ll never speak to you again\u2014unless you apologize.",
+        "I don\u2019t belong in this family."
+      ]
+    },
+    {
+      "domain": "Company",
+      "scale": "Team",
+      "phases": [
+        "Intense loyalty to manager or cause, sees workplace as 'family'.",
+        "Perceived rejection or feedback triggers meltdown.",
+        "Erratic performance, oversharing, conflict with coworkers.",
+        "Resignation, HR conflict, smear campaigns, abrupt exit."
+      ],
+      "narrative_cues": [
+        "This job saved my life.",
+        "Why are they treating me like the problem?",
+        "I\u2019m not crazy\u2014everyone else is toxic.",
+        "I\u2019ll burn this place down on my way out."
+      ]
+    },
+    {
+      "domain": "Religion",
+      "scale": "Institutional",
+      "phases": [
+        "Spiritual fusion, intense devotion to doctrine or guru.",
+        "Spiritual doubt or contradiction triggers rupture.",
+        "Public denunciation, deconversion trauma, emotional volatility.",
+        "Isolation, searching for replacement meaning or belief."
+      ],
+      "narrative_cues": [
+        "I\u2019ve found my truth and salvation.",
+        "How could they lie to me like this?",
+        "They\u2019re all brainwashed\u2014I was too.",
+        "Maybe I\u2019ll just be lost forever."
+      ]
+    },
+    {
+      "domain": "Government",
+      "scale": "Societal",
+      "phases": [
+        "Over-identification with charismatic or populist leader.",
+        "Disillusionment triggers reactive extremism or radical shift.",
+        "Civil unrest, impulsive protest behavior, ideological splintering.",
+        "Collapse of faith in governance, nihilism, withdrawal."
+      ],
+      "narrative_cues": [
+        "This movement finally understands me.",
+        "They betrayed the people!",
+        "Burn it all down\u2014they never cared about us.",
+        "We\u2019re all on our own now."
+      ]
+    }
+  ]
+}

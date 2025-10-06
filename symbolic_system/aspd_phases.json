@@ -1,0 +1,274 @@
+[
+    {
+        "domain": "Personal",
+        "scale": "Individual",
+        "phases": [
+            "Chronic lying and manipulation",
+            "Violation of others\u2019 rights",
+            "Lack of remorse, impulsive behavior",
+            "Collapse through social rejection or incarceration"
+        ],
+        "narrative_cues": [
+            "I didn\u2019t do anything wrong.",
+            "They deserved it.",
+            "You\u2019re too soft.",
+            "Rules don\u2019t apply to me."
+        ]
+    },
+    {
+        "domain": "Marriage",
+        "scale": "Dyad",
+        "phases": [
+            "Love-bombing or shallow charm",
+            "Emotional abuse, gaslighting, infidelity",
+            "Control through fear, threats or detachment",
+            "Breakdown: legal intervention or disappearance"
+        ],
+        "narrative_cues": [
+            "You\u2019re crazy.",
+            "I never said that.",
+            "You made me do it.",
+            "I don\u2019t care what the court says."
+        ]
+    },
+    {
+        "domain": "Family",
+        "scale": "Household",
+        "phases": [
+            "Favorite/scapegoat dynamics",
+            "Physical or emotional violence",
+            "Enmeshment or detachment strategies",
+            "Collapse: CPS, estrangement, generational trauma"
+        ],
+        "narrative_cues": [
+            "That never happened.",
+            "You\u2019re the problem.",
+            "You owe me.",
+            "We don\u2019t talk about that."
+        ]
+    },
+    {
+        "domain": "Team",
+        "scale": "Small Group",
+        "phases": [
+            "Superficial charm and opportunism",
+            "Manipulation, blame-shifting, credit theft",
+            "Sabotage or abandonment of others",
+            "Collapse: turnover, HR, litigation"
+        ],
+        "narrative_cues": [
+            "I got us here.",
+            "You\u2019re on your own.",
+            "Don\u2019t tell anyone.",
+            "They\u2019re trying to screw me."
+        ]
+    },
+    {
+        "domain": "Company",
+        "scale": "Organizational",
+        "phases": [
+            "Risky ventures, lying to investors",
+            "Fraud, exploitation of workers/customers",
+            "Collapse of ethical structures",
+            "Bankruptcy, legal collapse, criminal charges"
+        ],
+        "narrative_cues": [
+            "That\u2019s just business.",
+            "Everyone does it.",
+            "They should\u2019ve read the fine print.",
+            "You can\u2019t prove anything."
+        ]
+    },
+    {
+        "domain": "Religion",
+        "scale": "Doctrinal",
+        "phases": [
+            "Charismatic deception, dogmatic allure",
+            "Authoritarian control, financial/moral corruption",
+            "Abuse scandals, truth suppression",
+            "Collapse: schism, defection, criminal exposure"
+        ],
+        "narrative_cues": [
+            "God told me to.",
+            "You must obey.",
+            "You\u2019ll be cast out.",
+            "They\u2019re testing my faith."
+        ]
+    },
+    {
+        "domain": "Government",
+        "scale": "State",
+        "phases": [
+            "Populist manipulation, demagoguery",
+            "Suppression of dissent, corruption, abuse of power",
+            "Collapse of accountability mechanisms",
+            "Coup, revolution, collapse into lawlessness"
+        ],
+        "narrative_cues": [
+            "We are the law.",
+            "They are enemies of the state.",
+            "It\u2019s all fake news.",
+            "Only I can save you."
+        ]
+    },
+    {
+        "domain": "Academia",
+        "scale": "Knowledge System",
+        "phases": [
+            "False credentials, plagiarism, agenda-driven research",
+            "Gatekeeping, suppression of dissent",
+            "Fabrication of data, dismantling peer review",
+            "Collapse: scandal, defunding, credibility loss"
+        ],
+        "narrative_cues": [
+            "They just don\u2019t understand real science.",
+            "We publish truth here.",
+            "Your paper isn\u2019t aligned with our goals.",
+            "They\u2019re attacking knowledge."
+        ]
+    },
+    {
+        "domain": "Media",
+        "scale": "Information",
+        "phases": [
+            "Sensationalism, emotional baiting",
+            "Targeted misinformation, propaganda",
+            "Suppression of conflicting viewpoints",
+            "Collapse: mass distrust, regulation, obsolescence"
+        ],
+        "narrative_cues": [
+            "We tell it how it is.",
+            "They don\u2019t want you to know this.",
+            "Ignore the noise.",
+            "It\u2019s just entertainment."
+        ]
+    },
+    {
+        "domain": "Community",
+        "scale": "Local System",
+        "phases": [
+            "Manipulation of social norms and loyalty",
+            "Division through fear and intimidation",
+            "Consolidation of control by force or leverage",
+            "Collapse: ostracism, violence, disbanding"
+        ],
+        "narrative_cues": [
+            "We take care of our own.",
+            "Don\u2019t cross the line.",
+            "You\u2019re not welcome here.",
+            "You made your choice."
+        ]
+    },
+    {
+        "domain": "Healthcare",
+        "scale": "Clinical",
+        "phases": [
+            "Exploitation of system loopholes",
+            "Gaslighting patients, overmedication, abuse",
+            "Systemic fraud, insurance exploitation",
+            "Collapse: license revocation, criminal exposure"
+        ],
+        "narrative_cues": [
+            "You\u2019re imagining things.",
+            "You just need more meds.",
+            "That\u2019s how it works.",
+            "They\u2019re out to get me."
+        ]
+    },
+    {
+        "domain": "Tech Stack",
+        "scale": "Systemic Infrastructure",
+        "phases": [
+            "Feature abuse, dark patterns",
+            "Security negligence, surveillance misuse",
+            "Collapse of user trust, data breaches",
+            "Collapse: regulation, deplatforming, abandonment"
+        ],
+        "narrative_cues": [
+            "It\u2019s in the terms.",
+            "Your privacy is important to us.",
+            "We\u2019re working on a fix.",
+            "This is industry standard."
+        ]
+    },
+    {
+        "domain": "Military",
+        "scale": "Force Structure",
+        "phases": [
+            "Militarization of rhetoric, glorification of power",
+            "Abuse of force, war crimes, chain-of-command breakdown",
+            "Loss of civilian control, coups, warlordism",
+            "Collapse: fragmentation, occupation, reckoning"
+        ],
+        "narrative_cues": [
+            "We\u2019re heroes.",
+            "We follow orders.",
+            "No one can stop us.",
+            "We are the law now."
+        ]
+    },
+    {
+        "domain": "Cults",
+        "scale": "Closed Ideological System",
+        "phases": [
+            "Charismatic recruitment, love bombing",
+            "Isolation, control, redefinition of truth",
+            "Dissociation, ritual abuse, financial domination",
+            "Collapse: internal violence, external exposure"
+        ],
+        "narrative_cues": [
+            "You\u2019re chosen.",
+            "They\u2019ll never understand.",
+            "Your doubts are tests.",
+            "We must protect the truth."
+        ]
+    },
+    {
+        "domain": "Legal",
+        "scale": "Adjudicative System",
+        "phases": [
+            "Exploitation of loopholes and precedents",
+            "Weaponization of legal process",
+            "Obstruction, coercion, judge shopping",
+            "Collapse: mistrust, vigilante behavior, breakdown"
+        ],
+        "narrative_cues": [
+            "It\u2019s technically legal.",
+            "Sue them into silence.",
+            "That judge is ours.",
+            "The system is rigged."
+        ]
+    },
+    {
+        "domain": "Art",
+        "scale": "Expressive",
+        "phases": [
+            "Plagiarism, shock value for fame",
+            "Exploitative representation, nihilism",
+            "Loss of originality, institutional capture",
+            "Collapse: irrelevance, censorship, backlash"
+        ],
+        "narrative_cues": [
+            "It\u2019s just art.",
+            "They don\u2019t get it.",
+            "It\u2019s meant to provoke.",
+            "Art has no rules."
+        ]
+    },
+    {
+        "domain": "Meta",
+        "scale": "Interdomain Reflexive",
+        "phases": [
+            "Manipulation of systems-of-systems",
+            "Recursive exploitation, optimization against humans",
+            "Collapse of meaning, simulation dominance",
+            "Collapse: societal unmooring, symbolic death"
+        ],
+        "narrative_cues": [
+            "This is the only way.",
+            "The system can\u2019t be wrong.",
+            "It\u2019s all just language games.",
+            "We are beyond truth now."
+        ]
+    }
+]

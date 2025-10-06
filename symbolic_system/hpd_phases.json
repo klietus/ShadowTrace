@@ -1,0 +1,138 @@
+[
+  {
+    "domain": "personal",
+    "scale": "intrapersonal",
+    "phases": [
+      {
+        "phase": "Phase 0 \u2013 Emotional Hunger",
+        "narrative_cues": [
+          "I need constant attention or I feel empty.",
+          "If no one is watching, I don\u2019t exist."
+        ]
+      },
+      {
+        "phase": "Phase 1 \u2013 Image Projection",
+        "narrative_cues": [
+          "Watch me shine\u2014everyone should see this.",
+          "If I\u2019m not the center of attention, what\u2019s the point?"
+        ]
+      },
+      {
+        "phase": "Phase 2 \u2013 Identity Instability",
+        "narrative_cues": [
+          "Why won\u2019t they look at me anymore?",
+          "Maybe I should become someone else to stay interesting."
+        ]
+      },
+      {
+        "phase": "Phase 3 \u2013 Public Collapse / Isolation",
+        "narrative_cues": [
+          "No one cares. Maybe I was never special.",
+          "If I can\u2019t be adored, I\u2019ll disappear."
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "family",
+    "scale": "dyad / unit",
+    "phases": [
+      {
+        "phase": "Phase 0 \u2013 Emotional Vacuum",
+        "narrative_cues": [
+          "My child should adore me completely.",
+          "If I\u2019m not the fun parent, I\u2019m nothing."
+        ]
+      },
+      {
+        "phase": "Phase 1 \u2013 Role Play",
+        "narrative_cues": [
+          "I\u2019ll be the perfect parent in front of others.",
+          "Let\u2019s take selfies for everyone to see."
+        ]
+      },
+      {
+        "phase": "Phase 2 \u2013 Approval Dependency",
+        "narrative_cues": [
+          "My family\u2019s love feels conditional, I need more.",
+          "Why aren\u2019t they clapping like they used to?"
+        ]
+      },
+      {
+        "phase": "Phase 3 \u2013 Emotional Withdrawal",
+        "narrative_cues": [
+          "I feel invisible in my own home.",
+          "Maybe I\u2019ll just leave and see if they miss me."
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "organization",
+    "scale": "team / brand",
+    "phases": [
+      {
+        "phase": "Phase 0 \u2013 Branding Obsession",
+        "narrative_cues": [
+          "Our image is our power.",
+          "We must always be seen as cutting edge."
+        ]
+      },
+      {
+        "phase": "Phase 1 \u2013 Cult of Personality",
+        "narrative_cues": [
+          "All eyes on the visionary leader.",
+          "We\u2019re nothing without buzz and applause."
+        ]
+      },
+      {
+        "phase": "Phase 2 \u2013 Identity Drift",
+        "narrative_cues": [
+          "Let\u2019s rebrand again\u2014it\u2019s time for something fresh.",
+          "People are losing interest. We must go bigger."
+        ]
+      },
+      {
+        "phase": "Phase 3 \u2013 Collapse of Credibility",
+        "narrative_cues": [
+          "We\u2019re being mocked now.",
+          "All that glitter was empty flash."
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "media",
+    "scale": "culture engine",
+    "phases": [
+      {
+        "phase": "Phase 0 \u2013 Fame Hunger",
+        "narrative_cues": [
+          "Everyone wants to be seen.",
+          "Visibility equals value."
+        ]
+      },
+      {
+        "phase": "Phase 1 \u2013 Spectacle Creation",
+        "narrative_cues": [
+          "Drama drives clicks.",
+          "Let\u2019s manufacture conflict for ratings."
+        ]
+      },
+      {
+        "phase": "Phase 2 \u2013 Image Saturation",
+        "narrative_cues": [
+          "Audiences are bored, viewership is dropping.",
+          "Reinvent the narrative\u2014fast."
+        ]
+      },
+      {
+        "phase": "Phase 3 \u2013 Attention Collapse",
+        "narrative_cues": [
+          "The algorithm has moved on.",
+          "We\u2019ve become yesterday\u2019s headline."
+        ]
+      }
+    ]
+  }
+]
