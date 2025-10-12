@@ -68,6 +68,10 @@ Collapse Vector: Burnout, resignation, ethical scandal
 Repair Paths: Reestablish team agency, reset leadership narrative
 ```
 
+## Live on ChatGPT
+
+This system is available on ChatGPT as a custom GPT named [Shadow Trace](https://chatgpt.com/g/g-68e3c647fda48191be60b0bea0a8725e-shadow-trace).
+
 ## 📢 Contact & Contributions
 
 Pull requests welcome. Use with care and awareness.  
